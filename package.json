@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-hls-video-player": "^1.0.1",
+    "vuetify": "^3.6.3"
+  }
+}
